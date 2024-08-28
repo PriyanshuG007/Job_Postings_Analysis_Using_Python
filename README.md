@@ -119,7 +119,7 @@ To see the execution of the analysis view my notebook with detailed steps here: 
 
 ### Results
 
-![number of jobs postings for Data Analyst role in India.](Images\output_4.png)
+![number of jobs postings for Data Analyst role in India.](https://github.com/PriyanshuG007/Job_Postings_Analysis_Using_Python/blob/main/Images/output_4.png?raw=true)
 
 *The Bar graph visualizing the skills which are most demanded for most popular data science roles in India.*
 
