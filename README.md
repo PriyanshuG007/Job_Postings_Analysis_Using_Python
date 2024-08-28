@@ -151,7 +151,7 @@ To see the execution of the analysis view my notebook with detailed steps here: 
 
 ### Results
 
-![Salary Distribution of Data Science roles in India.](Images\output_5.png)
+![Salary Distribution of Data Science roles in India.](https://github.com/PriyanshuG007/Job_Postings_Analysis_Using_Python/blob/main/Images/output_5.png?raw=true)
 
 *The Boxplot graph visualizing the Salary Distribution of Data Science roles in Indias.*
 
