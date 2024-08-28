@@ -64,7 +64,7 @@ To see the execution of the analysis view my notebook with detailed steps here: 
 
 ### Results
 
-![number of jobs postings for Data Analyst role in India.](Images\output_1.png)
+![number of jobs postings for Data Analyst role in India.](https://github.com/PriyanshuG007/Job_Postings_Analysis_Using_Python/blob/main/Images/output_1.png?raw=true)
 
 *Bar graph visualizing the which city has the most number of jobs postings for Data Analyst role in India.*
 
