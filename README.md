@@ -91,7 +91,7 @@ To see the execution of the analysis view my notebook with detailed steps here: 
 
 *The Pie chart visualizing the work from home status, degree requirement status, health insurance offered status bt the company for data analysts job roles in India.*
 
-![number of jobs postings by Individual companies for data analysts roles in india.](Images\output_3.png)
+![number of jobs postings by Individual companies for data analysts roles in india.](https://github.com/PriyanshuG007/Job_Postings_Analysis_Using_Python/blob/main/Images/output_3.png?raw=true)
 
 *The bar chart visualizing the number of jobs postings by Individual companies for data analysts roles in India.*
 
